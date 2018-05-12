@@ -1,0 +1,43 @@
+_repo: Zen_29750
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ashman, William
+    alias: Ashman
+    gutenberg_agent_id: '33729'
+    url: http://www.gutenberg.org/2009/agents/33729
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bixby, Jerome
+    aliases:
+    - Bixby, Drexel Jerome Lewis
+    - Bixby, Jay Lewis
+    - Bixby, Jerry
+    birthdate: 1923
+    deathdate: 1998
+    gutenberg_agent_id: '34130'
+    url: http://www.gutenberg.org/2009/agents/34130
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_Bixby
+description: Looking for a treatise on finding nirvana? You're in the wrong place.
+  Jerome Bixby's ""Zen"" is a thought-provoking tale about a lone outer-space creature
+  that believes it is the last one of its kind and, as a result, no longer wishes
+  to survive. Will the scientist who discovered the creature comply with its wish
+  to extinguish itself -- or does he have some shocking news to deliver?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: Zen
+url: http://www.gutenberg.org/ebooks/29750
